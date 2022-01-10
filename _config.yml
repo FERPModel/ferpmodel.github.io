@@ -50,3 +50,5 @@ defaults:
       layout: "section"
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
